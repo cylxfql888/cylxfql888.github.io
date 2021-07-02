@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cylxfql888.github.io</id>
     <title>cylxfql888&apos;s blog</title>
-    <updated>2021-07-02T03:29:15.692Z</updated>
+    <updated>2021-07-02T03:30:50.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cylxfql888.github.io"/>
     <link rel="self" href="https://cylxfql888.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://cylxfql888.github.io/images/avatar.png</logo>
     <icon>https://cylxfql888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cylxfql888&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://cylxfql888.github.io/post/1/</id>
+        <link href="https://cylxfql888.github.io/post/1/">
+        </link>
+        <updated>2021-07-02T03:30:02.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
 </feed>
